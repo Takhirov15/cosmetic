@@ -1071,6 +1071,10 @@ footer .footer-text {
     margin: 150px 0 0 0;
     left: 0;
   }
+  .review .review-text .review-box::after {
+    right: 39px;
+    top: 192px;
+}
 }
 
 /*---------------------------------
