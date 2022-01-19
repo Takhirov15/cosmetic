@@ -470,7 +470,7 @@ header .nav__links {
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
-  right: 302px;
+  right: 322px;
   top: 298px;
 }
 
@@ -1145,11 +1145,17 @@ footer .footer-text {
   header .logo {
     width: 0%;
   }
-  nav ul {
+ nav ul {
     margin-left: 125px;
   }
-  .number span::before {
-    border: 3px solid #222222;
+ .number span::before {
+    border: 1px solid #222222;
   }
+.review .review-text .review-box::after {
+    right: 30px;
+}
+.review .review-text .review-box::before {
+    left: -16px;
+}
 }
 /*# sourceMappingURL=style.css.map */
