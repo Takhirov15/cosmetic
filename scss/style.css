@@ -1148,11 +1148,8 @@ footer .footer-text {
  nav ul {
     margin-left: 125px;
   }
- .number span::before {
-    border: 1px solid #222222;
-  }
 .review .review-text .review-box::after {
-    right: 30px;
+    right: 32px;
 }
 .review .review-text .review-box::before {
     left: -16px;
