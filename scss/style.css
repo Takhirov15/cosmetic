@@ -669,6 +669,10 @@ footer .footer-text {
 # max-width:1199px
 ---------------------------------*/
 @media (max-width: 1199px) {
+  .review .review-text .review-box::after {
+    right: 232px;
+    top: 298px;
+}
   footer .footer-text {
     padding-top: 44px;
     margin-left: 100px;
