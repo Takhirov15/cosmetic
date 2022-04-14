@@ -670,7 +670,7 @@ footer .footer-text {
 ---------------------------------*/
 @media (max-width: 1199px) {
   .review .review-text .review-box::after {
-    right: 232px;
+    right: 231px;
     top: 298px;
 }
   footer .footer-text {
@@ -690,10 +690,6 @@ footer .footer-text {
     width: 104%;
     font-size: 30px;
     text-align: center;
-  }
-  .review .review-text .review-box::after {
-    right: 214px;
-    top: 298px;
   }
   .number-item {
     padding-top: 55px;
